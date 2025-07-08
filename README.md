@@ -6,13 +6,18 @@
 
 ## 📸 Screenshots
 
-> ![](https://github.com/Akash-code-0-1/Complete-Social-Media-Web-Application/blob/main/client/src/assets/projectImages/1.PNG)  
-> ![](https://github.com/Akash-code-0-1/Complete-Social-Media-Web-Application/blob/main/client/src/assets/projectImages/2.PNG)
-> ![](https://github.com/Akash-code-0-1/Complete-Social-Media-Web-Application/blob/main/client/src/assets/projectImages/3.PNG)  
-> ![](https://github.com/Akash-code-0-1/Complete-Social-Media-Web-Application/blob/main/client/src/assets/projectImages/4.PNG)
-> ![](https://github.com/Akash-code-0-1/Complete-Social-Media-Web-Application/blob/main/client/src/assets/projectImages/5.PNG)  
-> ![](https://github.com/Akash-code-0-1/Complete-Social-Media-Web-Application/blob/main/client/src/assets/projectImages/6.PNG)
-> ![](https://github.com/Akash-code-0-1/Complete-Social-Media-Web-Application/blob/main/client/src/assets/projectImages/7.PNG)  
+> ![](https://github.com/Akash-code-0-1/Mini-SPA-E-Commerce/blob/main/src/project_output_images/1.PNG)  
+> ![](https://github.com/Akash-code-0-1/Mini-SPA-E-Commerce/blob/main/src/project_output_images/2.PNG)  
+> ![](https://github.com/Akash-code-0-1/Mini-SPA-E-Commerce/blob/main/src/project_output_images/3.PNG)  
+> ![](https://github.com/Akash-code-0-1/Mini-SPA-E-Commerce/blob/main/src/project_output_images/4.PNG)  
+> ![](https://github.com/Akash-code-0-1/Mini-SPA-E-Commerce/blob/main/src/project_output_images/5.PNG)  
+> ![](https://github.com/Akash-code-0-1/Mini-SPA-E-Commerce/blob/main/src/project_output_images/6.PNG)  
+> ![](https://github.com/Akash-code-0-1/Mini-SPA-E-Commerce/blob/main/src/project_output_images/7.PNG)  
+> ![](https://github.com/Akash-code-0-1/Mini-SPA-E-Commerce/blob/main/src/project_output_images/8.PNG)  
+> ![](https://github.com/Akash-code-0-1/Mini-SPA-E-Commerce/blob/main/src/project_output_images/9.PNG)  
+> ![](https://github.com/Akash-code-0-1/Mini-SPA-E-Commerce/blob/main/src/project_output_images/10.PNG)  
+> ![](https://github.com/Akash-code-0-1/Mini-SPA-E-Commerce/blob/main/src/project_output_images/11.PNG)  
+
 
 ---
 
