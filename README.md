@@ -1,6 +1,3 @@
-Sure Junno — here’s your **complete copy-paste-ready** `README.md` markdown code. Just drop this directly into your `README.md` file and push it to GitHub:
-
-```md
 # MINI-SPA-ECOMMERCE 🛒⚡
 
 **MINI-SPA-ECOMMERCE** is a modern and responsive single-page e-commerce web application built with **React.js**, **Tailwind CSS**, and a **Node.js + Express.js** backend. It showcases featured products, detailed product views, cart functionality, checkout UI, and a fully dynamic backend-powered product system using a JSON data source.
@@ -9,17 +6,19 @@ Sure Junno — here’s your **complete copy-paste-ready** `README.md` markdown 
 
 ## 📸 Screenshots
 
-> *(Upload your screenshots to the repo and update these URLs)*  
-> ![](https://github.com/your-username/mini-spa-ecommerce/blob/main/screenshots/1.png)  
-> ![](https://github.com/your-username/mini-spa-ecommerce/blob/main/screenshots/2.png)  
-> ![](https://github.com/your-username/mini-spa-ecommerce/blob/main/screenshots/3.png)
+> ![](https://github.com/Akash-code-0-1/Complete-Social-Media-Web-Application/blob/main/client/src/assets/projectImages/1.PNG)  
+> ![](https://github.com/Akash-code-0-1/Complete-Social-Media-Web-Application/blob/main/client/src/assets/projectImages/2.PNG)
+> ![](https://github.com/Akash-code-0-1/Complete-Social-Media-Web-Application/blob/main/client/src/assets/projectImages/3.PNG)  
+> ![](https://github.com/Akash-code-0-1/Complete-Social-Media-Web-Application/blob/main/client/src/assets/projectImages/4.PNG)
+> ![](https://github.com/Akash-code-0-1/Complete-Social-Media-Web-Application/blob/main/client/src/assets/projectImages/5.PNG)  
+> ![](https://github.com/Akash-code-0-1/Complete-Social-Media-Web-Application/blob/main/client/src/assets/projectImages/6.PNG)
+> ![](https://github.com/Akash-code-0-1/Complete-Social-Media-Web-Application/blob/main/client/src/assets/projectImages/7.PNG)  
 
 ---
 
-## 📁 Project Structure
+## 📂 Project Structure  
 
 ```
-
 mini-spa-ecommerce/
 ├── api/                         # Backend API (Node.js + Express)
 │   ├── products.json            # Mock product database
@@ -55,11 +54,11 @@ mini-spa-ecommerce/
 ├── vite.config.js
 └── README.md
 
-````
+```
 
 ---
 
-## 🚀 Features
+## 🚀 Features  
 
 - 🔥 Fully responsive design
 - 🛍️ Featured and complete product listings
@@ -131,14 +130,13 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-## 📄 License
+## 💌 Contact  
 
-This project is open source and available under the [MIT License](LICENSE).
+👨‍💻 **Developer:** MD. Tanvir Ahmed Akash  
+📧 **Email:** tanvir0ah0akash@gmail.com  
+🌐 **GitHub:** [Akash-code-0-1](https://github.com/Akash-code-0-1)  
+💼 **LinkedIn:** [MD. Tanvir Ahmed Akash](https://www.linkedin.com/in/md-tanvir-ahmed-akash-8ba50b2b9/)  
 
 ---
 
-## 🌟 Support
-
-If you find this project useful, consider giving it a ⭐ on GitHub to show your support!
-
-
+🌟 **If you found this project helpful, consider giving it a ⭐ on GitHub!** 🚀
