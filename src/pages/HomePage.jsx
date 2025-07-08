@@ -1,11 +1,33 @@
 import ProductGrid from "../components/ProductGrid"
 import HeroSection from "../components/HeroSection"
 import FeaturesSection from "../components/FeaturesSection"
-import { products } from "../data/products"
+// import { products } from "../data/products"
+import { useEffect, useState } from "react";
+
+
 
 function HomePage() {
   // Get featured products (first 4 products)
-  const featuredProducts = products.slice(0, 4)
+  // const featuredProducts = products.slice(0, 4)
+
+  const [products, setProducts] = useState([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    fetch("http://localhost:5000/api/products")
+      .then((res) => res.json())
+      .then((data) => {
+        setProducts(data);
+        setLoading(false);
+      })
+      .catch((err) => {
+        console.error("Failed to load products:", err);
+        setLoading(false);
+      });
+  }, []);
+
+
+  const featuredProducts = products.slice(0, 4);
 
   return (
     <div className="space-y-20">
@@ -22,6 +44,13 @@ function HomePage() {
           </p>
         </div>
         <ProductGrid products={featuredProducts} />
+
+        {loading && (
+          <div className="text-center text-gray-500">
+            <p>Loading featured products...</p>
+          </div>
+        )}
+
       </section>
 
       {/* All Products Section */}
@@ -33,6 +62,11 @@ function HomePage() {
           </p>
         </div>
         <ProductGrid products={products} />
+        {loading && (
+          <div className="text-center text-gray-500">
+            <p>Loading all products...</p>
+          </div>
+        )}
       </section>
 
       {/* CTA Section */}

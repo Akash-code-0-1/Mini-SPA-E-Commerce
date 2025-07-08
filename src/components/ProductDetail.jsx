@@ -77,4 +77,4 @@ function ProductDetail({ product }) {
   )
 }
 
-export default ProductDetail
+export default ProductDetail;
