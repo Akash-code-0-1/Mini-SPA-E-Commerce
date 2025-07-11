@@ -9,7 +9,6 @@
 🌐 Check out the live version here:  
 **[MINI-SPA-ECOMMERCE](https://mini-spa-e-commerce-tanvir0ah0akash-gmailcoms-projects.vercel.app/)**  
 
-
 ---
 
 ## 📸 Screenshots
